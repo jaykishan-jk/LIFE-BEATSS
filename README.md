@@ -1,3 +1,3 @@
 # LIFE-BEATSS
 THIS IS THE SCREEN SHOTS OF OUR COMPLETE WORKING OF OUR WEBSITE
-![IMAGE](C:\Users\Jaykishan_JK\Pictures\Screenshots\Screenshot(28))
+![1](LIFE-BEATSS/SCREENSHOTS/Screenshot (28).png)
